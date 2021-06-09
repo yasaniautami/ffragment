@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas_Fragment_Yasania</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_display_name">User Display Name</string>
+    <string name="selamat_datang">Selamat datang</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="apa_itu_kotlin">Profile</string>
+    <string name="Isi">Yasania Utami Kelas i</string>
+</resources>
